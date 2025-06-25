@@ -1,0 +1,1 @@
+SELECT * FROM schoolmanagementsystem.new_table;
